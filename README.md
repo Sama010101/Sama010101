@@ -16,6 +16,5 @@
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br>
 
-Apaixonado por tecnologia e buscando minha primeira vaga de programador Front End / Estagiário 
 
 
